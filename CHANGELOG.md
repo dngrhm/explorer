@@ -1,3 +1,11 @@
+# [1.31.0](https://github.com/dngrhm/explorer/compare/v1.30.0...v1.31.0) (2022-08-06)
+
+
+### Features
+
+* Adds multi-platform build to CI/CD action ([e4df07f](https://github.com/dngrhm/explorer/commit/e4df07fcda63689e8c6a1ea25f6a1101bec362a3))
+* Adds multistage docker build to optimize the build time with cached builds ([42a68dd](https://github.com/dngrhm/explorer/commit/42a68dd26174712e0b285727a1da64455759c084))
+
 # [1.30.0](https://github.com/hirosystems/explorer/compare/v1.29.1...v1.30.0) (2022-08-04)
 
 
