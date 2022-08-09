@@ -16,7 +16,7 @@ RUN apk --no-cache add --virtual \
 COPY package.json yarn.lock .
 # ENV NODE_ENV=production
 
-RUN yarn
+RUN yarn --network-timeout 100000
 
 FROM node:16-alpine AS builder
 
