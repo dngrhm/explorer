@@ -14,6 +14,14 @@
 * remove cache to fix yarn issue ([9002918](https://github.com/dngrhm/explorer/commit/9002918fe19cb3cd64652254819b2fa0cd734022))
 * Removes arm64/v8 build to troubleshoot yarm build issue ([eeb520e](https://github.com/dngrhm/explorer/commit/eeb520e21e0781a34c8e242ee9634c4e74c8c85e))
 
+## [1.31.1](https://github.com/dngrhm/explorer/compare/v1.31.0...v1.31.1) (2022-08-09)
+
+
+### Bug Fixes
+
+* remove cache to fix yarn issue ([9002918](https://github.com/dngrhm/explorer/commit/9002918fe19cb3cd64652254819b2fa0cd734022))
+* Removes arm64/v8 build to troubleshoot yarm build issue ([eeb520e](https://github.com/dngrhm/explorer/commit/eeb520e21e0781a34c8e242ee9634c4e74c8c85e))
+
 # [1.31.0](https://github.com/dngrhm/explorer/compare/v1.30.0...v1.31.0) (2022-08-06)
 
 
