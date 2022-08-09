@@ -1,3 +1,10 @@
+## [1.31.2](https://github.com/dngrhm/explorer/compare/v1.31.1...v1.31.2) (2022-08-09)
+
+
+### Bug Fixes
+
+* Extend yarn timeout even longer ([4517b93](https://github.com/dngrhm/explorer/commit/4517b93b745e623d4878f3bdd85cb778d43cb460))
+
 ## [1.31.1](https://github.com/dngrhm/explorer/compare/v1.31.0...v1.31.1) (2022-08-09)
 
 
